@@ -5,7 +5,7 @@ public class A{
   }
   
   public A(){
-	System.out.println("Constructor called");  
+	System.out.println("Invoked Constructor");  
   }
 
 }
