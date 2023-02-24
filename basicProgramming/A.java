@@ -2,6 +2,7 @@ public class A{
   
   public void printMessage(String msg){
     System.out.println("Hello "+msg);
+    System.out.println("End PrintMessage");	  
   }
   
   public A(){
