@@ -6,4 +6,8 @@ public class Employee{
 		return this.name;
 	}
 	
+	public double getSal(){
+		return 2000;
+	}	
+	
 }
