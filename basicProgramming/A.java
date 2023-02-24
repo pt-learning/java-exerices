@@ -1,8 +1,7 @@
 public class A{
   
   public void printMessage(String msg){
-    System.out.println(msg);
-	System.out.println("End printMessage");
+    System.out.println("Hello "+msg);
   }
   
   public A(){
